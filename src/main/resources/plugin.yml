@@ -1,0 +1,8 @@
+name: WebShop
+version: 0.1
+main: com.minehq.webshop.WebShop
+description: A sexier shop plugin for Bukkit with a web interface.
+database: true
+author: Sushi
+website: http://dev.bukkit.org/server-mods/webshop/
+softdepend: [Vault]
