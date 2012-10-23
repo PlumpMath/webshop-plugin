@@ -1,0 +1,15 @@
+# IDE Files #
+*.sublime-text
+*.subime-workspace
+.classpath
+.project
+nbproject
+*.iml
+.idea
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
